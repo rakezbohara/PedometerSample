@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PedometerDemo</string>
+    <string name="steps_week_format">%1s STEPS THIS WEEK</string>
+</resources>
